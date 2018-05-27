@@ -1,7 +1,7 @@
 # node-exercise
 time spend: 1h 47min
 
-## Innnstallation
+## Installation
 ```
 $ git clone https://github.com/MrAlekhin/node-exercise.git
 $ cd node-exercise
